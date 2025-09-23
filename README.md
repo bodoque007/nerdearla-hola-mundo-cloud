@@ -8,6 +8,12 @@ Este proyecto forma parte del **Builder Challenge** presentado en Nerdearla, don
 
 **Proyecto original**: [aws-builder-challenge-personal-website](https://github.com/anacunha/aws-builder-challenge-personal-website)
 
+## Paso a paso
+
+1. Crea tu [AWS Builder ID](http://community.aws/builderid?trk=08884148-c0bc-442a-938f-642ccc2cb41c&sc_channel=el)
+2. [Crea tu cuenta del nivel gratuito de AWS (AWS Free Tier)](https://builder.aws.com/content/333fAHGmUSrbb4BwJ1hyMuUgQeS/hola-mundo-cloud-comenzando-tu-camino-en-la-nube?trk=86c76c09-e8f4-4138-badc-604ce7bc5d77&sc_channel=el)
+3. [Despliega tu sitio web con GitHub y AWS Amplify](https://builder.aws.com/content/3343AMcBAiNLfouz2gAEM9JZenR/hola-mundo-cloud-desplegando-tu-primer-sitio-web-con-github-y-aws-amplify?trk=86c76c09-e8f4-4138-badc-604ce7bc5d77&sc_channel=el)
+
 ## Archivos del Proyecto 📁
 
 Los archivos ya están incluidos en este repositorio:
